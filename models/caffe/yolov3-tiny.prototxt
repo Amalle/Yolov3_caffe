@@ -1,11 +1,4 @@
-name: "yolov3-tiny_modify"
-# input: "data"
-# input_shape {
-#   dim: 1
-#   dim: 3
-#   dim: 416
-#   dim: 416
-# }
+name: "yolov3-tiny"
 layer {
   name: "data"
   type: "Input"
